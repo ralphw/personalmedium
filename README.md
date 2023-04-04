@@ -1,4 +1,7 @@
 # personalmedium
+
+(Please note that this is still at the conceptual stage - no code has been written, and no design documents exist)
+
 Personal medium for note-taking, data management, hypertext, online messaging, and chatbot creation
 
 I think of this as what HyperCard might have been had it been allowed to fully mature at Apple.
